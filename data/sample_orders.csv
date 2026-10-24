@@ -1,0 +1,8 @@
+part_id,length,width,quantity,priority,material
+PANEL_A,220,500,6,High,Aluminium
+PANEL_B,220,160,8,Medium,Aluminium
+PLATE_C,500,200,13,Medium,Aluminium
+FRAME_D,600,360,11,High,Aluminium
+BRACKET_E,260,280,14,Low,Aluminium
+LONG_RAIL_F,700,420,7,High,Aluminium
+SMALL_TAB_G,220,120,6,Low,Aluminium
